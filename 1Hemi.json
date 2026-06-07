@@ -969,384 +969,6 @@
         "sessionExpiry": ""
     },
     {
-        "id": "8ce1744df85154b6",
-        "type": "ui-group",
-        "name": "Group 1",
-        "page": "abb167d891d3450b",
-        "width": "3",
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": true,
-        "disabled": false,
-        "groupType": "default"
-    },
-    {
-        "id": "ef904fb3606e96ad",
-        "type": "ui-group",
-        "name": "Group 2",
-        "page": "abb167d891d3450b",
-        "width": "3",
-        "height": 1,
-        "order": 2,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "d23124698a8cd7c1",
-        "type": "ui-group",
-        "name": "Group 3",
-        "page": "abb167d891d3450b",
-        "width": "3",
-        "height": 1,
-        "order": 3,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "bc7a2a7d28164a07",
-        "type": "ui-group",
-        "name": "Group 4",
-        "page": "abb167d891d3450b",
-        "width": "3",
-        "height": 1,
-        "order": 4,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "c8db74fc091aa045",
-        "type": "ui-group",
-        "name": "UTMACH",
-        "page": "14908812ed9f0e64",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "95f24c90e0e2f42a",
-        "type": "ui-group",
-        "name": "Group 2",
-        "page": "7ced8ca347a96084",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "57f1b3325ff4b518",
-        "type": "ui-group",
-        "name": "Grupo de Prueba Ejercicio 1 -Function-",
-        "page": "cf3454612e091489",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "9da59bead4e2ad6a",
-        "type": "ui-group",
-        "name": "Grupo de Prueba Ejercicio 2 -Change\\Switch-",
-        "page": "a5e2b89c2c9028fb",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "bb2718128cc463bc",
-        "type": "ui-group",
-        "name": "Grupo de Prueba Ejercicio 3",
-        "page": "48c3ae7f2ee9dce1",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "6ffb182b14c5e608",
-        "type": "ui-group",
-        "name": "Group de Prueba Ejercicio 4 -Varios Change-",
-        "page": "18f2af8cda1f69ee",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "8cdb0feb14d9384d",
-        "type": "ui-group",
-        "name": "Group de Prueba Ejercicio 4 -UnChange-",
-        "page": "18f2af8cda1f69ee",
-        "width": 6,
-        "height": 1,
-        "order": 2,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "cf0d8532588d0c88",
-        "type": "ui-group",
-        "name": "Group 5 -Comprobación-",
-        "page": "abb167d891d3450b",
-        "width": 6,
-        "height": 1,
-        "order": 5,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "717169f4ad81d619",
-        "type": "ui-group",
-        "name": "Grupo de Prueba Ejercicio 6",
-        "page": "0ad8e99ce14d577b",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "b65f3322b7092f9b",
-        "type": "ui-group",
-        "name": "weatherstack",
-        "page": "249733f8d83e8294",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "11b29a6792d5b1dc",
-        "type": "ui-group",
-        "name": "openweather",
-        "page": "249733f8d83e8294",
-        "width": 6,
-        "height": 1,
-        "order": 2,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "95f21c70d2d37922",
-        "type": "ui-group",
-        "name": "Group de Prueba Ejercicio 1 MQTT",
-        "page": "7d45b0bddb3d8de8",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "8b084484c3479806",
-        "type": "ui-group",
-        "name": "Temp",
-        "page": "69dd6f92555a0b27",
-        "width": 6,
-        "height": 1,
-        "order": 2,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "c7181135a95ca669",
-        "type": "ui-group",
-        "name": "Humedad",
-        "page": "69dd6f92555a0b27",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "e7e0bd3054b203ea",
-        "type": "ui-group",
-        "name": "Group Practica para Leccion",
-        "page": "249733f8d83e8294",
-        "width": 6,
-        "height": 1,
-        "order": 3,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "91d947cab3957c90",
-        "type": "ui-group",
-        "name": "Group Servidor GET",
-        "page": "7f5707e6902e0844",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "35940c41eb55866a",
-        "type": "ui-group",
-        "name": "Group Prueba",
-        "page": "49dd16851e37d630",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "0b1ad035de46e012",
-        "type": "ui-group",
-        "name": "Group Botones",
-        "page": "abb167d891d3450b",
-        "width": 6,
-        "height": 1,
-        "order": 6,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "5a99a2d7412d50e3",
-        "type": "ui-group",
-        "name": "Group 1",
-        "page": "3f28ea1d1626dbc3",
-        "width": 6,
-        "height": 1,
-        "order": 1,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "1fe7dadcb8400571",
-        "type": "ui-group",
-        "name": "Botones",
-        "page": "69dd6f92555a0b27",
-        "width": 6,
-        "height": 1,
-        "order": 3,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "87a9bc14a1204777",
-        "type": "ui-group",
-        "name": "Group Botones",
-        "page": "18f2af8cda1f69ee",
-        "width": 6,
-        "height": 1,
-        "order": 3,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "dd396bd6c06fd9b4",
-        "type": "ui-group",
-        "name": "Group Botones",
-        "page": "249733f8d83e8294",
-        "width": 6,
-        "height": 1,
-        "order": 4,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
-        "id": "c54e97c6989ce2b2",
-        "type": "ui-group",
-        "name": "Group Botones",
-        "page": "49dd16851e37d630",
-        "width": 6,
-        "height": 1,
-        "order": 2,
-        "showTitle": true,
-        "className": "",
-        "visible": "true",
-        "disabled": "false",
-        "groupType": "default"
-    },
-    {
         "id": "base-config",
         "type": "ui-base",
         "name": "Dashboard Base",
@@ -1363,6 +985,308 @@
         "notificationDisplayTime": 5,
         "showDisconnectNotification": true,
         "allowInstall": true
+    },
+    {
+        "id": "theme-paul",
+        "type": "ui-theme",
+        "name": "Tema Profesional",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#007bff",
+            "bgPage": "#f4f7f6",
+            "groupBg": "#ffffff",
+            "groupOutline": "#d1d1d1"
+        }
+    },
+    {
+        "id": "0e2b271e18f94262",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094CE",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "77b2d049da622415",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#427bff",
+            "primary": "#0094ce",
+            "bgPage": "#ffffff",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "7493d40930fc02e6",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094CE",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "4152f52c5d030a88",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094CE",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "6px"
+        }
+    },
+    {
+        "id": "218478fb77fcd920",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094CE",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "6px"
+        }
+    },
+    {
+        "id": "a5466e15450a7ee3",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094CE",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "48ff61501ecac028",
+        "type": "ui-theme",
+        "name": "Default Theme",
+        "colors": {
+            "surface": "#ffffff",
+            "primary": "#0094CE",
+            "bgPage": "#eeeeee",
+            "groupBg": "#ffffff",
+            "groupOutline": "#cccccc"
+        },
+        "sizes": {
+            "density": "default",
+            "pagePadding": "12px",
+            "groupGap": "12px",
+            "groupBorderRadius": "4px",
+            "widgetGap": "12px"
+        }
+    },
+    {
+        "id": "441ab34094ffb774",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0094CE",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#097479",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0094CE",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1bbfff",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0094ce",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "grey",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "76af0b65c311c006",
+        "type": "ui_link",
+        "name": "Link 2",
+        "icon": "open_in_browser",
+        "target": "newtab",
+        "order": 2
+    },
+    {
+        "id": "72415252.b2cadc",
+        "type": "ui_tab",
+        "name": "Home",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "f779dd92.cf698",
+        "type": "ui_tab",
+        "name": "Charts",
+        "icon": "dashboard",
+        "order": 2
+    },
+    {
+        "id": "3ba37fd4.6558f",
+        "type": "ui_group",
+        "name": "Example Flow",
+        "tab": "72415252.b2cadc",
+        "order": 1,
+        "disp": true,
+        "width": "8",
+        "collapse": false
+    },
+    {
+        "id": "44d9222c.07961c",
+        "type": "ui_group",
+        "name": "Charts",
+        "tab": "f779dd92.cf698",
+        "order": 2,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "afe97566.fbda58",
+        "type": "ui_group",
+        "name": "Inputs",
+        "tab": "f779dd92.cf698",
+        "order": 1,
+        "disp": false,
+        "width": "6"
+    },
+    {
+        "id": "ef33233b.dd28f",
+        "type": "ui_group",
+        "name": "Group 3",
+        "tab": "f779dd92.cf698",
+        "order": 3,
+        "disp": false,
+        "width": "6"
     },
     {
         "id": "abb167d891d3450b",
@@ -1869,313 +1793,389 @@
         "disabled": false
     },
     {
-        "id": "theme-paul",
-        "type": "ui-theme",
-        "name": "Tema Profesional",
-        "colors": {
-            "surface": "#ffffff",
-            "primary": "#007bff",
-            "bgPage": "#f4f7f6",
-            "groupBg": "#ffffff",
-            "groupOutline": "#d1d1d1"
-        }
-    },
-    {
-        "id": "0e2b271e18f94262",
-        "type": "ui-theme",
-        "name": "Default Theme",
-        "colors": {
-            "surface": "#ffffff",
-            "primary": "#0094CE",
-            "bgPage": "#eeeeee",
-            "groupBg": "#ffffff",
-            "groupOutline": "#cccccc"
-        },
-        "sizes": {
-            "density": "default",
-            "pagePadding": "12px",
-            "groupGap": "12px",
-            "groupBorderRadius": "4px",
-            "widgetGap": "12px"
-        }
-    },
-    {
-        "id": "77b2d049da622415",
-        "type": "ui-theme",
-        "name": "Default Theme",
-        "colors": {
-            "surface": "#427bff",
-            "primary": "#0094ce",
-            "bgPage": "#ffffff",
-            "groupBg": "#ffffff",
-            "groupOutline": "#cccccc"
-        },
-        "sizes": {
-            "density": "default",
-            "pagePadding": "12px",
-            "groupGap": "12px",
-            "groupBorderRadius": "4px",
-            "widgetGap": "12px"
-        }
-    },
-    {
-        "id": "7493d40930fc02e6",
-        "type": "ui-theme",
-        "name": "Default Theme",
-        "colors": {
-            "surface": "#ffffff",
-            "primary": "#0094CE",
-            "bgPage": "#eeeeee",
-            "groupBg": "#ffffff",
-            "groupOutline": "#cccccc"
-        },
-        "sizes": {
-            "density": "default",
-            "pagePadding": "12px",
-            "groupGap": "12px",
-            "groupBorderRadius": "4px",
-            "widgetGap": "12px"
-        }
-    },
-    {
-        "id": "4152f52c5d030a88",
-        "type": "ui-theme",
-        "name": "Default Theme",
-        "colors": {
-            "surface": "#ffffff",
-            "primary": "#0094CE",
-            "bgPage": "#eeeeee",
-            "groupBg": "#ffffff",
-            "groupOutline": "#cccccc"
-        },
-        "sizes": {
-            "density": "default",
-            "pagePadding": "12px",
-            "groupGap": "12px",
-            "groupBorderRadius": "4px",
-            "widgetGap": "6px"
-        }
-    },
-    {
-        "id": "218478fb77fcd920",
-        "type": "ui-theme",
-        "name": "Default Theme",
-        "colors": {
-            "surface": "#ffffff",
-            "primary": "#0094CE",
-            "bgPage": "#eeeeee",
-            "groupBg": "#ffffff",
-            "groupOutline": "#cccccc"
-        },
-        "sizes": {
-            "density": "default",
-            "pagePadding": "12px",
-            "groupGap": "12px",
-            "groupBorderRadius": "4px",
-            "widgetGap": "6px"
-        }
-    },
-    {
-        "id": "a5466e15450a7ee3",
-        "type": "ui-theme",
-        "name": "Default Theme",
-        "colors": {
-            "surface": "#ffffff",
-            "primary": "#0094CE",
-            "bgPage": "#eeeeee",
-            "groupBg": "#ffffff",
-            "groupOutline": "#cccccc"
-        },
-        "sizes": {
-            "density": "default",
-            "pagePadding": "12px",
-            "groupGap": "12px",
-            "groupBorderRadius": "4px",
-            "widgetGap": "12px"
-        }
-    },
-    {
-        "id": "48ff61501ecac028",
-        "type": "ui-theme",
-        "name": "Default Theme",
-        "colors": {
-            "surface": "#ffffff",
-            "primary": "#0094CE",
-            "bgPage": "#eeeeee",
-            "groupBg": "#ffffff",
-            "groupOutline": "#cccccc"
-        },
-        "sizes": {
-            "density": "default",
-            "pagePadding": "12px",
-            "groupGap": "12px",
-            "groupBorderRadius": "4px",
-            "widgetGap": "12px"
-        }
-    },
-    {
-        "id": "441ab34094ffb774",
-        "type": "ui_base",
-        "theme": {
-            "name": "theme-light",
-            "lightTheme": {
-                "default": "#0094CE",
-                "baseColor": "#0094CE",
-                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
-                "edited": true,
-                "reset": false
-            },
-            "darkTheme": {
-                "default": "#097479",
-                "baseColor": "#097479",
-                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
-                "edited": false
-            },
-            "customTheme": {
-                "name": "Untitled Theme 1",
-                "default": "#4B7930",
-                "baseColor": "#4B7930",
-                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
-            },
-            "themeState": {
-                "base-color": {
-                    "default": "#0094CE",
-                    "value": "#0094CE",
-                    "edited": false
-                },
-                "page-titlebar-backgroundColor": {
-                    "value": "#0094CE",
-                    "edited": false
-                },
-                "page-backgroundColor": {
-                    "value": "#fafafa",
-                    "edited": false
-                },
-                "page-sidebar-backgroundColor": {
-                    "value": "#ffffff",
-                    "edited": false
-                },
-                "group-textColor": {
-                    "value": "#1bbfff",
-                    "edited": false
-                },
-                "group-borderColor": {
-                    "value": "#ffffff",
-                    "edited": false
-                },
-                "group-backgroundColor": {
-                    "value": "#ffffff",
-                    "edited": false
-                },
-                "widget-textColor": {
-                    "value": "#111111",
-                    "edited": false
-                },
-                "widget-backgroundColor": {
-                    "value": "#0094ce",
-                    "edited": false
-                },
-                "widget-borderColor": {
-                    "value": "#ffffff",
-                    "edited": false
-                },
-                "base-font": {
-                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
-                }
-            },
-            "angularTheme": {
-                "primary": "indigo",
-                "accents": "blue",
-                "warn": "red",
-                "background": "grey",
-                "palette": "light"
-            }
-        },
-        "site": {
-            "name": "Node-RED Dashboard",
-            "hideToolbar": "false",
-            "allowSwipe": "false",
-            "lockMenu": "false",
-            "allowTempTheme": "true",
-            "dateFormat": "DD/MM/YYYY",
-            "sizes": {
-                "sx": 48,
-                "sy": 48,
-                "gx": 6,
-                "gy": 6,
-                "cx": 6,
-                "cy": 6,
-                "px": 0,
-                "py": 0
-            }
-        }
-    },
-    {
-        "id": "76af0b65c311c006",
-        "type": "ui_link",
-        "name": "Link 2",
-        "icon": "open_in_browser",
-        "target": "newtab",
-        "order": 2
-    },
-    {
-        "id": "72415252.b2cadc",
-        "type": "ui_tab",
-        "name": "Home",
-        "icon": "dashboard",
+        "id": "8ce1744df85154b6",
+        "type": "ui-group",
+        "name": "Group 1",
+        "page": "abb167d891d3450b",
+        "width": "3",
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": true,
         "disabled": false,
-        "hidden": false
+        "groupType": "default"
     },
     {
-        "id": "f779dd92.cf698",
-        "type": "ui_tab",
-        "name": "Charts",
-        "icon": "dashboard",
-        "order": 2
-    },
-    {
-        "id": "3ba37fd4.6558f",
-        "type": "ui_group",
-        "name": "Example Flow",
-        "tab": "72415252.b2cadc",
-        "order": 1,
-        "disp": true,
-        "width": "8",
-        "collapse": false
-    },
-    {
-        "id": "44d9222c.07961c",
-        "type": "ui_group",
-        "name": "Charts",
-        "tab": "f779dd92.cf698",
+        "id": "ef904fb3606e96ad",
+        "type": "ui-group",
+        "name": "Group 2",
+        "page": "abb167d891d3450b",
+        "width": "3",
+        "height": 1,
         "order": 2,
-        "disp": false,
-        "width": "6"
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
     },
     {
-        "id": "afe97566.fbda58",
-        "type": "ui_group",
-        "name": "Inputs",
-        "tab": "f779dd92.cf698",
-        "order": 1,
-        "disp": false,
-        "width": "6"
-    },
-    {
-        "id": "ef33233b.dd28f",
-        "type": "ui_group",
+        "id": "d23124698a8cd7c1",
+        "type": "ui-group",
         "name": "Group 3",
-        "tab": "f779dd92.cf698",
+        "page": "abb167d891d3450b",
+        "width": "3",
+        "height": 1,
         "order": 3,
-        "disp": false,
-        "width": "6"
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "bc7a2a7d28164a07",
+        "type": "ui-group",
+        "name": "Group 4",
+        "page": "abb167d891d3450b",
+        "width": "3",
+        "height": 1,
+        "order": 4,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "c8db74fc091aa045",
+        "type": "ui-group",
+        "name": "UTMACH",
+        "page": "14908812ed9f0e64",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "95f24c90e0e2f42a",
+        "type": "ui-group",
+        "name": "Group 2",
+        "page": "7ced8ca347a96084",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "57f1b3325ff4b518",
+        "type": "ui-group",
+        "name": "Grupo de Prueba Ejercicio 1 -Function-",
+        "page": "cf3454612e091489",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "9da59bead4e2ad6a",
+        "type": "ui-group",
+        "name": "Grupo de Prueba Ejercicio 2 -Change\\Switch-",
+        "page": "a5e2b89c2c9028fb",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "bb2718128cc463bc",
+        "type": "ui-group",
+        "name": "Grupo de Prueba Ejercicio 3",
+        "page": "48c3ae7f2ee9dce1",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "6ffb182b14c5e608",
+        "type": "ui-group",
+        "name": "Group de Prueba Ejercicio 4 -Varios Change-",
+        "page": "18f2af8cda1f69ee",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "8cdb0feb14d9384d",
+        "type": "ui-group",
+        "name": "Group de Prueba Ejercicio 4 -UnChange-",
+        "page": "18f2af8cda1f69ee",
+        "width": 6,
+        "height": 1,
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "cf0d8532588d0c88",
+        "type": "ui-group",
+        "name": "Group 5 -Comprobación-",
+        "page": "abb167d891d3450b",
+        "width": 6,
+        "height": 1,
+        "order": 5,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "717169f4ad81d619",
+        "type": "ui-group",
+        "name": "Grupo de Prueba Ejercicio 6",
+        "page": "0ad8e99ce14d577b",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "b65f3322b7092f9b",
+        "type": "ui-group",
+        "name": "weatherstack",
+        "page": "249733f8d83e8294",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "11b29a6792d5b1dc",
+        "type": "ui-group",
+        "name": "openweather",
+        "page": "249733f8d83e8294",
+        "width": 6,
+        "height": 1,
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "95f21c70d2d37922",
+        "type": "ui-group",
+        "name": "Group de Prueba Ejercicio 1 MQTT",
+        "page": "7d45b0bddb3d8de8",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "8b084484c3479806",
+        "type": "ui-group",
+        "name": "Temp",
+        "page": "69dd6f92555a0b27",
+        "width": 6,
+        "height": 1,
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "c7181135a95ca669",
+        "type": "ui-group",
+        "name": "Humedad",
+        "page": "69dd6f92555a0b27",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "e7e0bd3054b203ea",
+        "type": "ui-group",
+        "name": "Group Practica para Leccion",
+        "page": "249733f8d83e8294",
+        "width": 6,
+        "height": 1,
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "91d947cab3957c90",
+        "type": "ui-group",
+        "name": "Group Servidor GET",
+        "page": "7f5707e6902e0844",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "35940c41eb55866a",
+        "type": "ui-group",
+        "name": "Group Prueba",
+        "page": "49dd16851e37d630",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "0b1ad035de46e012",
+        "type": "ui-group",
+        "name": "Group Botones",
+        "page": "abb167d891d3450b",
+        "width": 6,
+        "height": 1,
+        "order": 6,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "5a99a2d7412d50e3",
+        "type": "ui-group",
+        "name": "Group 1",
+        "page": "3f28ea1d1626dbc3",
+        "width": 6,
+        "height": 1,
+        "order": 1,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "1fe7dadcb8400571",
+        "type": "ui-group",
+        "name": "Botones",
+        "page": "69dd6f92555a0b27",
+        "width": 6,
+        "height": 1,
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "87a9bc14a1204777",
+        "type": "ui-group",
+        "name": "Group Botones",
+        "page": "18f2af8cda1f69ee",
+        "width": 6,
+        "height": 1,
+        "order": 3,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "dd396bd6c06fd9b4",
+        "type": "ui-group",
+        "name": "Group Botones",
+        "page": "249733f8d83e8294",
+        "width": 6,
+        "height": 1,
+        "order": 4,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
+    },
+    {
+        "id": "c54e97c6989ce2b2",
+        "type": "ui-group",
+        "name": "Group Botones",
+        "page": "49dd16851e37d630",
+        "width": 6,
+        "height": 1,
+        "order": 2,
+        "showTitle": true,
+        "className": "",
+        "visible": "true",
+        "disabled": "false",
+        "groupType": "default"
     },
     {
         "id": "81a9f8bf560d8cf0",
         "type": "inject",
         "z": "8d6a53b07c3a74af",
         "g": "65e3b156bf7248b8",
-        "name": "Generar dato",
+        "name": "Generar datos",
         "props": [],
         "repeat": "",
         "crontab": "",
